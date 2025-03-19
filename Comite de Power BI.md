@@ -1,8 +1,5 @@
 # **Comite de Power BI**
-
-
-| <img src="img/c.jpeg" alt="Power BI" width="380" /> | <img src="img/bi.png" alt="Power BI" width="150" /> | <img src="img/Logo.png" alt="Power BI" width="170" /> |
-|:---:|:---:|:---:|
+<img src="img/a.png" alt="Power BI" width="700" />
 
 ____
 
