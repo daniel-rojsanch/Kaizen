@@ -52,6 +52,8 @@ ___
 
 <img src="img/faro.jpg" alt="Power BI" width="550" />
 
+___
+
 
 ### 📌 Lista de tableros construidos
 
