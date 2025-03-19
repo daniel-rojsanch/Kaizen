@@ -1,4 +1,3 @@
-# **Comite de Power BI**
 <img src="img/bas.png" alt="Power BI" width="700" />
 
 ____
