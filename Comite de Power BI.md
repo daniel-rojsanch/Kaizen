@@ -35,6 +35,7 @@ ___
 |Erick Esteban Guzmán | Analista Mejora Continua| Mejora Continua  |
 |Rangel Figueroa Samantha Rocio | Líder De Talento Y Cultura|Talento Y Cultura|
 |Márquez Espino Medardo | Gerente Jr Rrrp| Gerencia Rrrp 3Pl Y Vas  |
+|Hernández Arriaga Gerardo | Supervisor De Diferencias| Supervision Almacen  |
 
 
 
