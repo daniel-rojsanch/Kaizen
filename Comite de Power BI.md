@@ -58,6 +58,10 @@ ___
 
 ### 📌 Lista de tableros construidos
 
+~~~
+Añadir a que tema del faro de pega
+~~~
+
 - [x] Tablero Talento y Cultura
 - [x] Tablero DAS
 - [x] Tablero 3PL
