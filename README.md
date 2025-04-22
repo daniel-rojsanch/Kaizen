@@ -1,3 +1,7 @@
 # Kaizen
 
 https://app.powerbi.com/view?r=eyJrIjoiMDJkZGNkOGItMmJjOS00MWQ0LTkzMTQtYjViYjljYzg5NmM3IiwidCI6ImJmYWZhYTlhLTg4NTEtNGVmOC04NTViLTBlOWM1OGVlZDJmZSIsImMiOjR9
+
+
+🤖
+https://app.powerbi.com/view?r=eyJrIjoiYWNiY2RiZjQtZTQyYy00MTE2LTkwOTEtMTdlMjZkMTBkNjQ0IiwidCI6ImJmYWZhYTlhLTg4NTEtNGVmOC04NTViLTBlOWM1OGVlZDJmZSIsImMiOjR9
